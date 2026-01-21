@@ -1,6 +1,6 @@
 # BusinessAnalysis
 
-## [Feature Engineering Compare for Model versions] (https://github.com/ChetanaYogeesh/BusinessAnalysis/blob/main/V2%20vs%20V1%20Performance%20Analysis%20-%20Executive%20Report.pdf)
+## [Feature Engineering Compare for Model versions](https://github.com/ChetanaYogeesh/BusinessAnalysis/blob/main/V2%20vs%20V1%20Performance%20Analysis%20-%20Executive%20Report.pdf)
 
 <img width="899" height="806" alt="Screenshot 2026-01-20 at 8 34 54 PM" src="https://github.com/user-attachments/assets/8864ac61-3aac-4082-9925-02180af7a6dd" />
 
