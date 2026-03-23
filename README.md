@@ -1,6 +1,57 @@
 # BusinessAnalysis
 
-## [Data Science Model Evaluation](https://github.com/ChetanaYogeesh/BusinessAnalysis/blob/main/V2%20vs%20V1%20Performance%20Analysis%20-%20Executive%20Report.pdf)
+#### 1. [Discount Mart — Sales Analytics (Tableau)](https://public.tableau.com/app/profile/chetana.yogeesh/viz/DiscountMart_17222863808830/DiscountMartDashboard)
+Retail sales dashboard for 2019 with year-over-year KPIs, monthly trend lines, category breakdowns, quantity distribution, and a geographic sales map across US states.
+
+**Key metrics:** $733.2K sales · $219,965 profit · 12,476 units  
+**Charts:** Line (monthly trend), horizontal bar (category), histogram (quantity bins), choropleth map
+
+---
+
+#### 2. [Gaming & Retail — Multi-Dimensional Sales (Tableau)](https://public.tableau.com/app/profile/chetana.yogeesh/viz/ProfitVsSales_17244393861980/Dashboard2)
+Multi-view dashboard covering ship status heatmaps by quarter, sub-group profit/quantity/sales tables, moving average quantity trends, and a profit-vs-sales bubble scatter plot.
+
+**Spans:** 2019–2022 · $2.3M grand total  
+**Charts:** Crosstab heatmap, data table, dual-axis moving average, scatter/bubble plot  
+**Filters:** Grouping (Accessories, Consoles, Games) · Region (Central, East, South, West)
+
+---
+
+#### 3. [Sign-Up Flow Optimization (Tableau)](https://public.tableau.com/app/profile/chetana.yogeesh/viz/signup_flow_story_17228961971500/Sign-UpFlowStory)
+Three-page funnel dashboard tracking login attempt volumes, error message frequencies, and device/OS breakdowns to identify friction in the registration flow.
+
+**Date range:** July 2022 – January 2023  
+**Highlights:** 217K email logins · 40K+ "invalid password" errors · LinkedIn & Facebook OAuth analysis  
+**Charts:** Vertical bar (login types), horizontal stacked bar (errors by type)
+
+---
+
+#### 4. [Call Detail Record (CDR) — Telecom Forensics Suite (Looker)](https://lookerstudio.google.com/reporting/a592fc9d-d083-42fc-b6ae-8f2b629d9df2/page/BIGgD)
+A 7-page investigative analytics suite built on raw CDR data. Covers call volume, duration metrics, dropped calls, SMSC messaging, geography/travel analysis, cell tower attribution, and network contact mapping.
+
+**KPIs:** 260 total calls · 103 incoming · 157 outgoing · 407.45 min duration · 36 dropped · 50 SMSC
+
+---
+
+#### 5. [Urban Crime Analytics Dashboard (Looker)](https://lookerstudio.google.com/u/0/reporting/3770a34c-1b0e-4913-a00b-f004392d1a91/page/p_w29d4zv4ad)
+
+Developed an end-to-end crime data analytics solution analyzing 32,000+ offense records spanning Jun 2017–Aug 2021 across 8 city zones.
+
+> 8-page interactive Power BI dashboard covering offense trends, incident types, zone analysis, larceny, homicide/rape categories, vehicle-related incidents, and statistical validation
+> Time-series analysis revealing peak crime hours (1–2 PM: 2,550 cases) and declining year-over-year trends (8,234 in 2019 → 4,375 in 2021
+> Chi-square hypothesis testing confirming non-independence of key variables (p < 0.05 across 3 test scenarios)
+> Correlation matrix identifying Z3's strong relationship with vehicle-related incidents and homicide, and Z5's proximity to larceny offenses
+
+**Key findings:**
+• Larceny dominates at 28% of all cases; 23C is the leading incident type across all categories
+• Vehicle-related incidents represent only 7% of total cases with a downward trend
+• Crime peaks between 12PM–3PM and dips at 2AM–4AM, providing actionable patrol scheduling insights
+
+🛠 Tools: Looker, Statistical Hypothesis Testing (Chi-Square), Correlation Analysis
+
+
+
+#### 6. [Data Science Model Evaluation](https://github.com/ChetanaYogeesh/BusinessAnalysis/blob/main/V2%20vs%20V1%20Performance%20Analysis%20-%20Executive%20Report.pdf)
 
 <img width="899" height="806" alt="Screenshot 2026-01-20 at 8 34 54 PM" src="https://github.com/user-attachments/assets/8864ac61-3aac-4082-9925-02180af7a6dd" />
 
@@ -11,98 +62,6 @@
 <img width="860" height="410" alt="Screenshot 2026-01-20 at 8 36 40 PM" src="https://github.com/user-attachments/assets/c5926dd1-6cce-45fd-a220-08a155fb35e6" />
 
 <img width="861" height="626" alt="Screenshot 2026-01-20 at 8 36 49 PM" src="https://github.com/user-attachments/assets/e9a32665-d3a6-4620-9fef-9ae4dd88d3de" />
+• Crime peaks between 12PM–3PM and dips at 2AM–4AM, providing actionable patrol scheduling insights
 
-## What We Know (Performance Differences)
-
-### V2 performs WORSE than V1 across almost all metrics:
-
-- **67% of products** show revenue decline in V2
-- **$1,328 total revenue loss** in V2
-- **3,274 fewer sales units** in V2
-- **448 fewer add-to-cart actions** in V2
-- **Worse search rankings** (average +10 positions lower in V2)
-
-## What V1 and V2 Could Be
-
-Based on the metrics being tracked and the patterns we see, V1 and V2 are likely comparing:
-
-### Most Likely Scenarios
-
-#### 1. Search/Recommendation Algorithm Versions
-- **V1** = Old search/ranking algorithm
-- **V2** = New search/ranking algorithm
-- **Evidence**: Click position changes, search intent buckets, product ranking metrics
-
-#### 2. E-commerce Platform Versions
-- **V1** = Previous website/app version
-- **V2** = New website/app version
-- **Evidence**: Add-to-cart rates, online/offline sales tracking, UX metrics
-
-#### 3. Pricing/Promotion Strategy Versions
-- **V1** = Previous pricing model
-- **V2** = New pricing model
-- **Evidence**: Average unit price changes, margin % tracking
-
-#### 4. Product Attribution Model Versions
-- **V1** = Old method of attributing sales to segments
-- **V2** = New attribution method
-- **Evidence**: "attributed_to_segment" metrics throughout
-
-## Evidence Points to Search/Recommendation System
-
-The strongest evidence suggests V1 vs V2 is comparing **search or recommendation algorithm versions** because:
-
-- Product click positions degraded significantly (+10 average, some +76 positions)
-- Search intent buckets are tracked (Specific/Broad/Medium)
-- Add-to-cart conversion rates changed
-- "Specific" intent queries underperform vs "Broad" in V2
-
-## What Likely Changed in V2
-
-Based on the failure patterns:
-
-1. **Search ranking algorithm changed** → Products appearing lower in results
-2. **Product discovery logic changed** → Harder for customers to find products
-3. **Offline channel integration issues** → 76% of decline from offline
-4. **Regional rollout inconsistencies** → Region A failed, Region D succeeded
-
-## To Determine Exactly What V1 and V2 Are
-
-You would need to check:
-
-- Project documentation or release notes
-- What was deployed/changed between the measurement periods
-- Whether this was an A/B test of algorithms, a platform upgrade, or a business rule change
-- System change logs from the measurement period
-
----
-
-## Chart Visualizations
-
-### Overview Tab
-- Stacked bar chart showing positive/negative/no change across all metrics
-- Key metrics cards (67% declining, -$1,327 revenue, -3,274 units)
-- Pie chart showing revenue impact distribution
-
-### Products Tab
-- Bar charts for top 5 products by revenue and sales impact
-- Detailed table with all product metrics
-- Shows Butter Product as biggest decline at -$713
-
-### Segments Tab
-- Performance comparison across Premium/Standard/Budget
-- Win rate visualization
-- Individual segment cards with detailed metrics
-- Shows Premium segment as worst performer (-75% negative rate)
-
-### Regions Tab
-- Regional performance comparison
-- Winning vs losing products by region
-- Color-coded cards (green for positive, red for negative)
-- Shows Region D as only winner, Region A as worst performer
-
-### Impact Tab
-- Overall business impact pie chart
-- Channel analysis showing 76% offline decline
-- Four key metric cards for quick reference
-- Critical findings highlighted
+🛠 Tools: Looker, Statistical Hypothesis Testing (Chi-Square), Correlation Analysis
