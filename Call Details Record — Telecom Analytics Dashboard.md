@@ -129,6 +129,15 @@ Contact frequency table and Sankey flow diagrams.
 
 **Visualizations:**
 - Incoming & Outgoing call Sankey diagrams from `16504838989`
+<img width="1205" height="905" alt="Screenshot 2026-03-23 at 11 00 32 AM" src="https://github.com/user-attachments/assets/008e4a96-4390-4a2e-89a6-16487b366096" />
+<img width="1204" height="902" alt="Screenshot 2026-03-23 at 11 00 25 AM" src="https://github.com/user-attachments/assets/559244fd-6ed7-4736-84f3-5e3a4dfa1233" />
+<img width="1209" height="908" alt="Screenshot 2026-03-23 at 11 00 18 AM" src="https://github.com/user-attachments/assets/a8bd2962-d667-4f2d-b76d-c9f76d38215b" />
+<img width="1204" height="905" alt="Screenshot 2026-03-23 at 11 00 10 AM" src="https://github.com/user-attachments/assets/6546e5c5-74dc-47d1-88f1-c1dba7a13f52" />
+<img width="1205" height="906" alt="Screenshot 2026-03-23 at 11 00 00 AM" src="https://github.com/user-attachments/assets/971a58de-07af-4f26-b8e7-ffdff07584a8" />
+<img width="1204" height="904" alt="Screenshot 2026-03-23 at 10 59 46 AM" src="https://github.com/user-attachments/assets/02380bc0-fd13-420a-bb0d-730648402cc1" />
+<img width="1207" height="908" alt="Screenshot 2026-03-23 at 10 59 36 AM" src="https://github.com/user-attachments/assets/6f59bc96-c32c-46f9-8c58-817f9055a125" />
+<img width="1216" height="912" alt="Screenshot 2026-03-23 at 10 59 26 AM" src="https://github.com/user-attachments/assets/2462063f-89ed-4594-bcc0-dca202541fda" />
+<img width="1215" height="917" alt="Screenshot 2026-03-23 at 10 43 36 AM" src="https://github.com/user-attachments/assets/00d5892c-5881-44e3-97e7-909dc0d94b9e" />
 
 ---
 
