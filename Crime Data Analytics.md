@@ -76,15 +76,6 @@ Correlation matrix highlights: Vehicle Related & Total Cases (0.97), Larceny & V
 
 
 ---
-## Tech Stack
-
-- **Power BI Desktop** — report development, visuals, filters
-- **DAX** — KPI measures, rolling averages, YoY calculations
-- **Power Query (M)** — data cleaning, type normalization
-- **Statistics** — Chi-Square hypothesis testing, Pearson correlation matrix
-
-
----
 
 
 
