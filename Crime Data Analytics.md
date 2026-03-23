@@ -1,8 +1,8 @@
 # Urban Crime Analytics Dashboard
 
-> **A multi-page Power BI analytics report analyzing 32,000 urban offense records (2017–2021) across temporal trends, incident types, geographic zones, and statistical validation.**
+> **A multi-page Looker analytics report analyzing 32,000 urban offense records (2017–2021) across temporal trends, incident types, geographic zones, and statistical validation.**
 
-![Looker](https://lookerstudio.google.com/u/0/reporting/3770a34c-1b0e-4913-a00b-f004392d1a91/page/p_w29d4zv4ad)
+![Looker Live Dashboard](https://lookerstudio.google.com/u/0/reporting/3770a34c-1b0e-4913-a00b-f004392d1a91/page/p_w29d4zv4ad)
 
 ---
 
