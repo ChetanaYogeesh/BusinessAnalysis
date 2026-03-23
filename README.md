@@ -12,7 +12,7 @@ Retail sales dashboard for 2019 with year-over-year KPIs, monthly trend lines, c
 
 **Key metrics:** $733.2K sales · $219,965 profit · 12,476 units  
 **Charts:** Line (monthly trend), horizontal bar (category), histogram (quantity bins), choropleth map
-
+<img width="1316" height="708" alt="Screenshot 2026-03-23 at 10 02 04 AM" src="https://github.com/user-attachments/assets/ebc94361-5e1d-4192-8c02-0f7de3f2a447" />
 ---
 
 #### 2. [Gaming & Retail — Multi-Dimensional Sales (Tableau)](https://public.tableau.com/app/profile/chetana.yogeesh/viz/ProfitVsSales_17244393861980/Dashboard2)
@@ -21,7 +21,7 @@ Multi-view dashboard covering ship status heatmaps by quarter, sub-group profit/
 **Spans:** 2019–2022 · $2.3M grand total  
 **Charts:** Crosstab heatmap, data table, dual-axis moving average, scatter/bubble plot  
 **Filters:** Grouping (Accessories, Consoles, Games) · Region (Central, East, South, West)
-
+<img width="1337" height="833" alt="Screenshot 2026-03-23 at 10 02 35 AM" src="https://github.com/user-attachments/assets/9e3dc1c8-40ec-406f-9323-8d4b7245e6dd" />
 ---
 
 #### 3. [Sign-Up Flow Optimization (Tableau)](https://public.tableau.com/app/profile/chetana.yogeesh/viz/signup_flow_story_17228961971500/Sign-UpFlowStory)
@@ -30,7 +30,7 @@ Three-page funnel dashboard tracking login attempt volumes, error message freque
 **Date range:** July 2022 – January 2023  
 **Highlights:** 217K email logins · 40K+ "invalid password" errors · LinkedIn & Facebook OAuth analysis  
 **Charts:** Vertical bar (login types), horizontal stacked bar (errors by type)
-
+<img width="1371" height="771" alt="Screenshot 2026-03-23 at 10 03 02 AM" src="https://github.com/user-attachments/assets/0674f922-f3a2-4900-a69f-7a585dd288b6" />
 ---
 
 #### 4. [Call Detail Record (CDR) — Telecom Forensics Suite (Looker)](https://lookerstudio.google.com/reporting/a592fc9d-d083-42fc-b6ae-8f2b629d9df2/page/BIGgD)
