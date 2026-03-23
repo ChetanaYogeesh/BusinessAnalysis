@@ -1,5 +1,14 @@
 # BusinessAnalysis
 
+## Table of Contents
+1. [Discount Mart — Sales Analytics (Tableau)](#1-discount-mart--sales-analytics-tableau)
+2. [Gaming & Retail — Multi-Dimensional Sales (Tableau)](#2-gaming--retail--multi-dimensional-sales-tableau)
+3. [Sign-Up Flow Optimization (Tableau)](#3-sign-up-flow-optimization-tableau)
+4. [Call Detail Record (CDR) — Telecom Forensics Suite (Looker)](#4-call-detail-record-cdr--telecom-forensics-suite-looker)
+5. [Urban Crime Analytics Dashboard (Looker)](#5-urban-crime-analytics-dashboard-looker)
+6. [Data Science Model Evaluation](#6-data-science-model-evaluation)
+
+
 #### 1. [Discount Mart — Sales Analytics (Tableau)](https://public.tableau.com/app/profile/chetana.yogeesh/viz/DiscountMart_17222863808830/DiscountMartDashboard)
 Retail sales dashboard for 2019 with year-over-year KPIs, monthly trend lines, category breakdowns, quantity distribution, and a geographic sales map across US states.
 
