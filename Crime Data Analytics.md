@@ -62,6 +62,16 @@ All three chi-square hypothesis tests rejected the null hypothesis of variable i
 Correlation matrix highlights: Vehicle Related & Total Cases (0.97), Larceny & Vehicle Related (0.90), Z3 & Homicide (0.74).
 
 ---
+<img width="1204" height="907" alt="Screenshot 2026-03-23 at 11 08 29 AM" src="https://github.com/user-attachments/assets/0362357d-2bed-4746-adad-76547a72d7d9" />
+<img width="1212" height="921" alt="Screenshot 2026-03-23 at 11 09 50 AM" src="https://github.com/user-attachments/assets/e4dae826-01d8-40c0-9daa-4ad962db1826" />
+<img width="1212" height="911" alt="Screenshot 2026-03-23 at 11 09 44 AM" src="https://github.com/user-attachments/assets/6b3b1400-1ae2-4fdc-a9de-564e8cbefd7e" />
+<img width="1205" height="908" alt="Screenshot 2026-03-23 at 11 09 36 AM" src="https://github.com/user-attachments/assets/a364ee16-7a7e-48f4-a693-4bd1f2f3886d" />
+<img width="1206" height="906" alt="Screenshot 2026-03-23 at 11 09 27 AM" src="https://github.com/user-attachments/assets/0862ce0d-904b-4404-8c72-1a9ec1bbaf86" />
+<img width="1208" height="911" alt="Screenshot 2026-03-23 at 11 09 18 AM" src="https://github.com/user-attachments/assets/5e612f16-2011-4b47-ae92-c154413406eb" />
+<img width="1206" height="906" alt="Screenshot 2026-03-23 at 11 09 08 AM" src="https://github.com/user-attachments/assets/3f424525-1275-4e01-b2ac-f56da89a9d35" />
+<img width="1203" height="903" alt="Screenshot 2026-03-23 at 11 08 57 AM" src="https://github.com/user-attachments/assets/91c4c3bf-de01-496d-b4f1-cf7179435a1d" />
+<img width="1203" height="903" alt="Screenshot 2026-03-23 at 11 08 47 AM" src="https://github.com/user-attachments/assets/df84b7f1-a23d-49af-8474-d9c0e49eaeca" />
+<img width="1208" height="905" alt="Screenshot 2026-03-23 at 11 08 37 AM" src="https://github.com/user-attachments/assets/6f6908b0-c265-476a-837e-e945adc752d5" />
 
 
 
